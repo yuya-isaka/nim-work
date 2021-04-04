@@ -24,3 +24,4 @@ type
 proc sampleProc*(n: int) =
   ## サンプルプロシージャ
   echo "Sample"
+  echo v3
